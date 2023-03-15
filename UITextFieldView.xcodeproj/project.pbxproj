@@ -11,6 +11,7 @@
 		FBF36D2929C1ECA100F91328 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF36D2829C1ECA100F91328 /* ContentView.swift */; };
 		FBF36D2B29C1ECA200F91328 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBF36D2A29C1ECA200F91328 /* Assets.xcassets */; };
 		FBF36D2F29C1ECA200F91328 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBF36D2E29C1ECA200F91328 /* Preview Assets.xcassets */; };
+		FBF36D3629C1ECAE00F91328 /* CommentText.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF36D3529C1ECAE00F91328 /* CommentText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FBF36D2A29C1ECA200F91328 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBF36D2C29C1ECA200F91328 /* UITextFieldView.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = UITextFieldView.entitlements; sourceTree = "<group>"; };
 		FBF36D2E29C1ECA200F91328 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FBF36D3529C1ECAE00F91328 /* CommentText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FBF36D2629C1ECA100F91328 /* UITextFieldViewApp.swift */,
 				FBF36D2829C1ECA100F91328 /* ContentView.swift */,
+				FBF36D3529C1ECAE00F91328 /* CommentText.swift */,
 				FBF36D2A29C1ECA200F91328 /* Assets.xcassets */,
 				FBF36D2C29C1ECA200F91328 /* UITextFieldView.entitlements */,
 				FBF36D2D29C1ECA200F91328 /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				FBF36D2929C1ECA100F91328 /* ContentView.swift in Sources */,
 				FBF36D2729C1ECA100F91328 /* UITextFieldViewApp.swift in Sources */,
+				FBF36D3629C1ECAE00F91328 /* CommentText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
