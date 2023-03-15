@@ -1,5 +1,5 @@
 # 💡 UITextFieldView 
-SwiftUI의 TextField 와 TextEditor 를 사용해보고 화가나서 만들었습니다.  
+SwiftUI의 TextField 와 TextEditor 를 사용해보고 답답해서 만들었습니다.  
 UIKit 의 UITextView 를 래핑한 UIViewRepresentable 입니다.  
 입력에 따라 텍스트 입력창의 높이가 동적으로 변합니다.
 
